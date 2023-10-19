@@ -15,7 +15,7 @@ Download the galu bash file and place it into a directory that it's in the syste
 example:
 ```bash
 curl https://raw.githubusercontent.com/CrunchV1/galu/master/galu --output galu
-mv galu /usr/local/sbin
+mv galu /usr/local/sbin/
 ```
 
 # Useful or suggestions?
