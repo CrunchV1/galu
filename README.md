@@ -10,7 +10,7 @@ $ echo "example.com" | gau --subs | galu
 ```
 
 # Installation:
-Download the galu bash file and place it into a directory that it's in the system's PATH.
+Please download the galu bash file and ensure it's located within a directory included in the system's PATH.
 
 Example:
 ```bash
