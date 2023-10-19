@@ -20,3 +20,6 @@ mv galu /usr/local/sbin
 
 # Useful or suggestions?
 Let me know through [github issues](https://github.com/CrunchV1/galu/issues) or [discord](https://discord.gg/5Awt8b4Q)!
+
+
+[comment]: <> (readme inspired by the gau readme, https://github.com/lc/gau)
