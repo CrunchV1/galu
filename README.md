@@ -22,7 +22,7 @@ mv galu /home/$USER/go/bin/
 Galu uses [httpx](https://github.com/projectdiscovery/httpx) and [unfurl](https://github.com/tomnomnom/unfurl) to filter out all the live hosts. Please make sure both those tools are correctly installed on your system.
 
 # Useful or suggestions?
-Let me know through [github issues](https://github.com/CrunchV1/galu/issues) or [discord](https://discord.gg/5Awt8b4Q)!
+Let me know through [github issues](https://github.com/CrunchV1/galu/issues) or discord (`0xcrunch`)!
 
 
 [comment]: <> (readme inspired by the gau readme, https://github.com/lc/gau)
