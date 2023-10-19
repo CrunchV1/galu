@@ -1,3 +1,5 @@
+#!/bin/bash
+
 # check if httpx installed
 if ! [ -x "$(command -v httpx)" ];
 then
@@ -31,3 +33,4 @@ do
 		echo "$line" | grep -Ei "${grepValue}" 
 	done
 done
+
