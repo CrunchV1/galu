@@ -31,4 +31,3 @@ do
 		echo "$line" | grep -Ei "${grepValue}" 
 	done
 done
-
