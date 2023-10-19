@@ -12,7 +12,7 @@ $ echo "example.com" | gau --subs | galu
 # Installation:
 Download the galu bash file and place it into a directory that it's in the system's PATH.
 
-example:
+Example:
 ```bash
 curl https://raw.githubusercontent.com/CrunchV1/galu/master/galu --output galu
 mv galu /usr/local/sbin/
