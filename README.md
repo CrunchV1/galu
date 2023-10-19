@@ -15,6 +15,7 @@ Please download the galu bash file and **ensure it's located within a directory 
 Example:
 ```bash
 curl https://raw.githubusercontent.com/CrunchV1/galu/master/galu --output galu
+chmod +x ./galu
 mv galu /home/$USER/go/bin/
 ```
 
